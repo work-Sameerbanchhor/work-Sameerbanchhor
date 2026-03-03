@@ -99,13 +99,6 @@ class Sameer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=work-Sameerbanchhor&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=070A0F&title_color=00FFA3&icon_color=00FFA3&text_color=E6EDF3"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=work-Sameerbanchhor&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=070A0F&title_color=00FFA3&text_color=E6EDF3"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=work-Sameerbanchhor&theme=dark&hide_border=true&background=070A0F&stroke=00FFA3&ring=00FFA3&fire=FF6B35&currStreakLabel=00FFA3)](https://git.io/streak-stats)
 
 </div>
