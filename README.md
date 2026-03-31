@@ -87,21 +87,17 @@ A chatbot fine-tuned on a Chhattisgarhi corpus to support local farming communit
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=work-Sameerbanchhor&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
+## Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
 </picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=work-Sameerbanchhor&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
