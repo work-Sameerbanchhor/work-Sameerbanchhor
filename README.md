@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sameer Banchhor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Sameer+Banchhor)](https://github.com/work-Sameerbanchhor)
 
 **AI/ML Researcher | Data Scientist | NLP for Low-Resource Languages**
 
@@ -84,22 +84,6 @@ A chatbot fine-tuned on a Chhattisgarhi corpus to support local farming communit
 **Certifications (In Progress):**
 - Google Data Analytics Professional Certificate — Coursera (2026)
 - IBM Data Science Professional Certificate — Coursera (2026)
-
----
-
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake.svg" />
-  <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
-</picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=work-Sameerbanchhor&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
