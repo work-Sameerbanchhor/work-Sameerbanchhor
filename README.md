@@ -1,128 +1,107 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sameer+Banchhor+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+NLP+Researcher;Building+AI+for+Advance+Tasks;DATA+SCIENTIST)](https://git.io/typing-svg)
+# Sameer Banchhor
 
-<br/>
+**AI/ML Researcher | Data Scientist | NLP for Low-Resource Languages**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameerbanchhor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sameerbanchhor)
-[![Email](https://img.shields.io/badge/Email-work.sameerbanchhor%40outlook.com-00B2FF?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:work.sameerbanchhor@outlook.com)
-[![Location](https://img.shields.io/badge/📍-Durg%2C+Chhattisgarh%2C+India-00FFA3?style=for-the-badge)](https://maps.google.com/?q=Durg,Chhattisgarh)
-![Open to Work](https://img.shields.io/badge/💼_Status-Open_to_Opportunities-00FFA3?style=for-the-badge)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class Sameer:
-    name       = "Sameer Banchhor"
-    degree     = "M.Sc. Computer Science @ Hemchand Yadav University (2024–Present)"
-    focus      = ["Applied AI", "Machine Learning", "NLP", "Regional Language Tech"]
-    building   = "Production-grade ML systems for education & low-resource languages"
-    seeking    = ["Data Scientist", "Data Analyst", "ML Engineer"]
-    fun_fact   = "I built one of the first TTS systems for the Chhattisgarhi language 🎙️"
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 DURG-EduAI — Multi-Task Student Performance Prediction
-> *Turning raw university data into actionable student insights*
-
-- 📦 Collected & cleaned **248,539 student exam records** from Hemchand Yadav University (2016–2025)
-- 🔮 Built a unified ML pipeline delivering **5 simultaneous predictions** per student:
-  - SGPA Regression · PASS/FAIL/ATKT Classification · Dropout Risk · Subject Benchmarking · Early Warning
-- 🧪 Engineered a **novel 6-signal proxy-label** methodology for dropout risk without longitudinal tracking
-
-`XGBoost` `LightGBM` `Scikit-learn` `Pandas` `Feature Engineering` `EDA`
-
----
-
-### 🗣️ Chhattisgarhi TTS — VITS Deep Learning Model
-> *Giving voice to a language that AI forgot*
-
-- 🏗️ Designed & trained a **VITS (Variational Inference TTS)** model for Chhattisgarhi — one of the first ever
-- 🌏 Tackled low-resource language challenges: limited data, dialect variation, tonal pronunciation
-- 🔊 End-to-end speech synthesis pipeline from text to natural-sounding audio
-
-`VITS` `PyTorch` `HuggingFace` `Low-resource NLP` `Speech Synthesis`
-
----
-
-### 🤖 Chhattisgarhi Chatbot — Fine-tuned Gemini API
-> *Bridging regional populations with modern AI*
-
-- 🎯 Fine-tuned **Google Gemini API** on a Chhattisgarhi corpus with regional dialects & colloquial speech
-- 💬 Built a conversational AI that understands and responds naturally in Chhattisgarhi
-- 🌐 Closing the AI accessibility gap for 18M+ Chhattisgarhi speakers
-
-`Gemini API` `Fine-tuning` `Transformers` `Text Classification` `Conversational AI`
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI / ML / NLP
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Web
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameerbanchhor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sameerbanchhor)
+[![Email](https://img.shields.io/badge/Email-slimshadow.work@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:slimshadow.work@gmail.com)
+[![Location](https://img.shields.io/badge/Durg,_Chhattisgarh,_India-333?style=flat-square)](https://maps.google.com/?q=Durg,Chhattisgarh)
+[![Status](https://img.shields.io/badge/Open_to_Opportunities-00A86B?style=flat-square)](https://linkedin.com/in/Sameerbanchhor)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## About
+
+I am an AI/ML researcher with a focus on applied machine learning, educational data mining, and NLP for low-resource languages. My work involves designing end-to-end systems that move from raw, unstructured data to deployable solutions — particularly in settings where data is scarce but impact is high.
+
+I hold an M.Sc. in Computer Science from Hemchand Yadav University, Durg, and have built production-grade ML systems processing over 248,000 academic records, developed one of the first text-to-speech models for Chhattisgarhi, and deployed a conversational AI system used by farming communities in rural Chhattisgarh.
+
+Currently seeking roles in **Data Science**, **ML Engineering**, or **Applied AI Research**.
+
+---
+
+## Research and Projects
+
+### DURG-EduAI — Multi-Task Student Performance Prediction
+*Hemchand Yadav University | Aug 2025 – Feb 2026*
+
+A large-scale machine learning framework for academic risk analysis, trained on 248,539 student exam records (2016–2025). The system delivers five simultaneous predictions per student: SGPA regression, pass/fail/ATKT classification, dropout risk detection, subject-level benchmarking, and early warning signals.
+
+- Achieved classification F1 > 0.99 and regression R² ~ 0.996 on structured university data
+- Proposed a novel 6-signal proxy-label methodology for dropout risk prediction without longitudinal tracking
+- Presented findings to university leadership; published datasets and models on open platforms
+
+**Stack:** XGBoost, LightGBM, Scikit-learn, Pandas, NumPy
+
+---
+
+### Chhattisgarhi Text-to-Speech — VITS Deep Learning Model
+
+One of the first TTS systems built for Chhattisgarhi, a low-resource language spoken by over 18 million people. Trained a VITS (Variational Inference with adversarial learning for end-to-end Text-to-Speech) model to produce natural-sounding speech synthesis from text input.
+
+- Addressed core low-resource challenges: limited training data, dialect variation, and tonal pronunciation
+- Designed a complete pipeline from text normalization to waveform generation
+
+**Stack:** VITS, PyTorch, HuggingFace, Phoneme Processing
+
+---
+
+### Chhattisgarhi Conversational AI — Community Deployment
+*Kanker, Chhattisgarh | Mar 2025 – Jul 2025*
+
+A chatbot fine-tuned on a Chhattisgarhi corpus to support local farming communities with queries on seeds, tools, and agricultural practices. Deployed in a real-world rural setting with iterative feedback from end users.
+
+- Fine-tuned Google Gemini API on regional dialects and colloquial speech patterns
+- Collaborated directly with farmer groups to improve usability and response quality
+- Recognized and compensated by local government for community impact
+
+**Stack:** Gemini API, Fine-tuning, Transformers, Conversational AI
+
+---
+
+## Technical Skills
+
+| Domain | Tools and Frameworks |
+|---|---|
+| Languages | Python, SQL, JavaScript |
+| ML / AI | Scikit-learn, XGBoost, LightGBM, PyTorch, HuggingFace, Gemini API |
+| Data Science | Pandas, NumPy, Matplotlib, Seaborn, Jupyter, Google Colab |
+| NLP / Speech | VITS, Transformers, Tokenizers, Text Classification, TTS Pipelines |
+| Engineering | Git, React, Node.js, Data Pipelines, Feature Engineering |
+
+---
+
+## Education
+
+| Degree | Institution | Performance | Period |
+|---|---|---|---|
+| M.Sc. Computer Science | Hemchand Yadav University, Durg | 8.21 SGPA (Sem III) | 2024 – 2026 |
+| B.Sc. Computer Science | Kalyan PG College, Bhilai | 79% | 2021 – 2023 |
+
+**Certifications (In Progress):**
+- Google Data Analytics Professional Certificate — Coursera (2026)
+- IBM Data Science Professional Certificate — Coursera (2026)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=work-Sameerbanchhor&theme=dark&hide_border=true&background=070A0F&stroke=00FFA3&ring=00FFA3&fire=FF6B35&currStreakLabel=00FFA3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=work-Sameerbanchhor&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## 🎓 Education & Certifications
-
-| Degree | Institution | Score | Year |
-|--------|------------|-------|------|
-| M.Sc. Computer Science | Hemchand Yadav University, Durg | **8.21 SGPA** (Sem III) | 2024–Present |
-| B.Sc. Computer Science | Kalyan PG College, Bhilai | **79%** | 2020–2023 |
-
-**In Progress:**
-- 📜 Google Data Analytics Certificate — Coursera (2026)
-- 📜 IBM Data Science Professional Certificate — Coursera (2026)
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
 
-[![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=work-Sameerbanchhor&bg_color=070A0F&color=00FFA3&line=00FFA3&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/work-Sameerbanchhor/work-Sameerbanchhor/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -130,4 +109,6 @@ class Sameer:
 
 <div align="center">
 
-**💡 "Building AI that speaks every language — including the ones the world forgot."**
+*"Building AI that speaks every language — including the ones the world forgot."*
+
+</div>
